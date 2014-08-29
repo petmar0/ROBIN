@@ -1,4 +1,4 @@
-#Recording and Observing Bird Identifying Node: Assembly
+#Recording and Observing Bioacoustic Identifying Node: Assembly
 ##Tools Needed
 - No. 1 Phillips Screwdriver
 - 41/64" Drill Bit
