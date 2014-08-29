@@ -3,6 +3,7 @@
 - No. 1 Phillips Screwdriver
 - 41/64" Drill Bit
 - No. 30 Drill Bit
+- 12 mm Drill Bit
 - Drill
 - Wire Cutter
 - Wire Stripper
@@ -63,7 +64,10 @@
 9. Plug the other end of the USB A to microB cable into the right side of the USB hub
 10. Plug the Syba Audio Interface into the USB hub
 11. Plug the Wi-Pi WiFi Dongle into the USB hub
-12. Drill the two holes for the external connectors with the pattern found here and the 41/64" drill bit
+12. Drill the two holes in the bottom wall of the enclosure for the external connectors with the pattern found here and the 41/64" drill bit
+13. Drill the one remaining hole in the bottom wall with the 12 mm drill bit
+14. Put the pressure relief element in from the outside of the enclosure
+15. Screw the included nut on the pressure relief element from the inside
 13. Cut off 1' of the USB hub power cord from the connector
 14. Separate and strip the ends of both of the wires of the USB hub power cord that was just cut
 15. Tin the wire ends with solder
@@ -73,4 +77,11 @@
 19. Solder that conductor to the middle pin of the LM7805
 20. Solder the other conductor to the empty pin (pin3) of the LM7805
 21. Cut off a foot of cable including the male 3.5 mm plug from the microphone extension cable
-22. 
+22. Solder the bare conductor to the pin with the dot next to it (pin1)
+23. Solder the red wire to the pin across the notch from pin 1 (pin2)
+24. Solder the black wire to the remaining pin below the other two (pin3)
+25. Put the 3-pin EN3 connector through the hole near the middle of the bottom
+26. Screw the included nut onto the 3-pin EN3 connector
+27. Put the 2-pin EN3 connector through the hole at the right side of the bottom
+28. Screw the included nut onto the 2-pin EN3 connector
+29. 
