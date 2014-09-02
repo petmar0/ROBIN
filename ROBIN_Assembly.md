@@ -84,4 +84,4 @@
 26. Screw the included nut onto the 3-pin EN3 connector
 27. Put the 2-pin EN3 connector through the hole at the right side of the bottom
 28. Screw the included nut onto the 2-pin EN3 connector
-29. 
+32. 
