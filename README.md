@@ -9,7 +9,7 @@ The basic idea of this system is two-fold: to create a device that will allow fo
 - Easy to assemble
 - Easy to initialize
 - Easy to use
-- 
+
 Additionally, from the scientific standpoint, several other features should be included for use in the field:
 - Low-power, i.e. capable of being powered by a single 10 W solar panel and battery
 - Weatherproof, i.e. IP67 rated or better and capable of operation from -20 to 50 °C
