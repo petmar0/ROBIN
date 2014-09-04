@@ -1,7 +1,6 @@
 ROBIN
 =====
-
-Recording and Observing Bioacoustic Identifying Node
+###Recording and Observing Bioacoustic Identifying Node
 The basic idea of this system is two-fold: to create a device that will allow for individuals interested in the detection and identification of birds on a citizen science level to assemble their own unit and use it, and to develop the software to be used on this system to do the detection and classification of organisms by signal characteristics. To accomplish this, the system must have several characteristics. It must be:
 - Inexpensive (<$200)
 - Modular, such that parts that are preexisting may be used
